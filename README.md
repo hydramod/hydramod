@@ -123,20 +123,52 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hydramod&show_icons=true&hide_border=true&count_private=true" alt="Ali's GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hydramod&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"
+    alt="Ali's GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydramod&layout=compact&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydramod&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=hydramod&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
+
+---
+
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/hydramod?tab=achievements">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/View%20my%20GitHub%20Achievements-0D8BF2?style=for-the-badge&logo=star&logoColor=white&labelColor=0D1117"
+      alt="GitHub Achievements"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hydramod&margin-w=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img
+    src="https://komarev.com/ghpvc/?username=hydramod&label=Profile%20views&style=flat&color=0e75b6"
+    alt="Profile views"
+  />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hydramod&label=Profile%20views&style=flat" alt="Profile views" />
-</p>
