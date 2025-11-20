@@ -48,31 +48,71 @@
 
 ---
 
-### 🛠 Toolbox
+### 🧰 Toolbox
 
-**Languages**  
-`Python` · `Bash` · `HCL (Terraform)` · `SQL` · `JavaScript` · `C` · `HTML` · `CSS`
+#### 📝 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42F6?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Backend & APIs**  
-`FastAPI` · `Flask` · `Django` · `REST` · `Microservices`
+#### 🧱 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-1F6FEB?style=for-the-badge&logo=microgenetics&logoColor=white" />
+</p>
 
-**Data / ML / MLOps**  
-`Pandas` · `scikit-learn` · `TensorFlow / Keras` · `YOLOv8` · `Kafka` · `Spark` · `Delta Lake` · `dbt` · `Airflow` · `Metabase`
+#### 📊 Data / ML / MLOps
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=github&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-0E83C8?style=for-the-badge&logo=d&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+</p>
 
-**Cloud & DevOps**  
-`AWS (EKS, EC2, VPC, Route 53, S3, DynamoDB)` · `Kubernetes` · `Helm` · `Docker` · `Docker Compose` · `Terraform` · `GitHub Actions` · `GitOps` · `IaC`
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42F6?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IaC-1F6FEB?style=for-the-badge&logo=files&logoColor=white" />
+</p>
 
-**Other**  
-`Linux` · `Networking` · `CI/CD` · `Makefile` · `Shell tooling`
+#### 🧰 Other
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-FF6C37?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell%20Tooling-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
----
-
-### 📚 Currently exploring
-
-- Hardening Kubernetes workloads for production (security, policies, and best practices)
-- Better observability for ML systems (logs, metrics, traces)
-- Scaling data pipelines without over-engineering
-- Turning lab repos into reusable templates and starter kits
 
 ---
 
